@@ -8,4 +8,6 @@
 
 //intersection in y shaped list - https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1
 
+//if linked list is pallindrome - https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1
+
 //detect loop - https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1
